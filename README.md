@@ -35,7 +35,7 @@ const localPath = "C:\\Users\\...."
 
 ## Run
 
-To run in terminal:
+To run:
 
 ```bash
 node test.js
