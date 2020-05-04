@@ -2,6 +2,8 @@
 
 This app allows uploading files from local directory to Azure Storage. It prepares a list to upload (all files from given root directory), compare what has been changed (by modification date) having regard to the current state on Azure target directory. It uploads all new and modified files and clean up storage directory with unwanted items (that exists on Azure only)
 
+**Node.js version: 12.16.1**
+
 ## Installation
 
 Install required node modules
